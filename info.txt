@@ -1,0 +1,23 @@
+SPACE SHOOTER
+
+Ciel hry:
+Vyhybaj sa nepriatelskym lodiam a ich strelam,
+znic co najviac nepriatelov a nazbieraj najvyssie skore.
+
+Ovladanie:
+W A S D / sipky - pohyb lode
+Mys - mierenie
+Lave tlacitko mysi - strela
+Medzernik - pauza
+
+Rezimy hry:
+CLASSIC - 3 zivoty, crosshair viditelny
+HARDCORE - 1 zivot, bez crosshairu
+Shield: imunita proti jednemu zasiahnutiu
+Nepriatelia:
+BASIC - klasicke lode ktore strielaju modre projektily
+ZIGZAG - od levelu 3, pohybuju sa po sinusoide - fialove projektily
+KAMIKAZE - od levelu 3, letia priamo na lod, maju zeleny odtien,
+neplati na nich shield
+
+                              VELA STASTIA!
